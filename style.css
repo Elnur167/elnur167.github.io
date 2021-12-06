@@ -1,0 +1,153 @@
+@media (max-width: 600px) {
+    .menu-600{
+        width: 25px;
+        height: 25px;
+        margin-top: 21px;
+        margin-right: 20px;
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+    }
+    .guide{
+        margin-left: 15%;
+        margin-top: 34px;
+    }
+    img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            width: 90%;
+    }
+    .btn{
+        margin-top: 20px;
+        margin-right: 45px;
+    }
+    h1{
+        margin-left: 15%;
+    }
+    section{
+        margin-top: 20px;
+    }
+    p{
+        margin-left: auto;
+        margin-right: auto;
+        width: 69%;
+    }
+    .button{
+        margin-left: 15%;
+    }
+
+    .gallery{
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+    
+    .carousel{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .airplane{
+        width: 48px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    h5{
+        margin-left: auto;
+        margin-right: auto;
+        width: 8%;
+    }
+    .feat{
+        margin-top: 20px;
+    }
+
+    form{
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+    label{
+        margin-top: 20px;
+    }
+    .contact{
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+    .foot{
+        width: 28px;
+    }
+    footer{
+        display: flex;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .untitled{
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+        margin-top: 20px;
+    }
+    .stay{
+        width: 90%;
+        margin-left: 30px;
+        height: 30px;
+    }
+    .robot{
+        display: flex;
+        margin-left: 30px;
+        width: 85%;
+        justify-content: space-between;
+    }
+    .rad{
+    margin-top: 9px;
+    }
+    .rob{
+        margin-top: 3px;
+    }
+    
+    .text{
+        width: 85%;
+        margin-left: 30px;
+    }
+    .big{
+        display: none;
+    }
+    .new-icon{
+        display: none;
+    }
+    .things{
+        margin-top: 20px;
+    }
+
+    .six{
+        margin-left: 47%;
+    }
+    .via{
+        display: flex;
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    .buti{
+        margin-top: 25px;
+    }
+    .email{
+        display: flex;
+        margin-left: 30px;
+    }
+    .contact{
+        margin-left: 10px;
+    }
+    .countr{
+        margin-left: 30px;
+    }
+    .inp{
+        height: 30px;
+    }
+
+}
+
+
+
+
+

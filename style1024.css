@@ -1,0 +1,196 @@
+@media (min-width: 850px) {
+    .dropdown{
+        display: none;
+    }
+    .guide{
+        display: none;
+    }
+
+    .icons-top{
+        width: 28px;
+        height: 28px;
+        
+    }
+    .new-icon{
+        display: flex;
+        width: 30%;
+        justify-content: space-between;
+        margin-right: 10px;
+    }
+    .big{
+        display: flex;
+        justify-content: space-between;
+        width: 50%;
+        margin-left: 20px;
+    }
+    .top{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    .a{
+        font-weight: bold;
+    }
+    .first-pg{
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 10px;
+        border-top: 1px solid grey;
+        }
+
+        img{
+            width: 50%;
+            height: 350px;
+        }
+        .things{
+            margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+        }
+        .second-img{
+            height: 400px;
+        }
+
+        .visitors{
+            margin-left: 10%;
+        }
+        .button{
+            margin-left: 10%;
+        }
+        .second-pg{
+            display: flex;
+            
+            border-top: 1px solid grey;
+        }
+        .third-pg{
+            display: flex;
+            flex-direction: row-reverse;
+            border-top: 1px solid grey;
+
+        }
+        .gallery{
+            margin-left: 45%;
+            margin-top: 20px;
+        }
+
+        .features{
+            display: grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: 300px 300px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+        }
+
+        .airplane{
+            width: 48px;
+            height: 48px;
+        }
+
+        .foot{
+            width: 28px;
+       height: 28px;
+        }
+
+        #carouselExampleControls{
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        .first-block{
+            height: 300px;  
+        }
+        .second-block{
+            height: 300px;  
+        }
+        .third-block{
+            height: 300px;  
+        }
+        .fourth-block{
+            height: 300px;  
+        }
+        .fifth-block{
+            height: 300px;  
+        }
+        .sixth-block{
+            height: 300px;  
+        }
+        .gr{
+            height: 300px;
+        }
+        .airplane{
+            margin-top: 75px;
+        }
+
+        .gr-a,
+        .gr-d,
+        .gr-e{
+            border-right: 1px solid grey;
+            height: 300px;
+        }
+        .gr-d,
+        .gr-e,
+        .gr-f{
+            border-top: 1px solid grey;
+            height: 300px;
+        }
+        .gr-b{
+            border-right: 1px solid grey;
+            height: 300px;
+        }
+        .nam{
+            margin-left: 10%;
+        }
+        #fname,
+        #lname,
+        #phone{
+            width: 80%;
+            margin-left: 10%;
+        }
+        .contact{
+            margin-left: 10%;
+            margin-bottom: 0px;
+        }
+        .ema{
+            display: flex;
+            margin-left: 10%;
+        }
+        .buti{
+            margin-top: 5px;
+        }
+        .email{
+            height: 10px;
+        }
+        .countr{
+            margin-left: 10%;
+        }
+        #country{
+            width: 80%;
+            margin-left: 10%;
+        }
+        #subject{
+            width: 80%;
+            margin-left: 10%;
+        }
+        .robot{
+            display: flex;
+    margin-left: 10%;
+    justify-content: space-between;
+    width: 80%;
+        }
+        .rad{
+            margin-top: 5px;
+        }
+        footer{
+            margin-left: 45%;
+            margin-bottom: 10px;
+        }
+            
+        .untitled{
+            margin-left: 46%;
+        }
+        
+    
+    }

@@ -1,0 +1,216 @@
+@media (min-width: 600px) and (max-width: 850px) {
+    .dropdown{
+        display: none;
+    }
+    .guide{
+        display: none;
+    }
+    .a{
+        font-weight: bold;
+    }
+    .big{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 10%;
+        margin-right: 30%;
+        margin-top: 20px;
+        width: 80%;
+    }
+    .first-pg{
+        display: flex;
+        flex-direction: row-reverse;
+        border-top: 1px solid grey;
+    margin-top: 10px;
+    }
+
+    img{
+        width: 50%;
+        height: 350px;
+    }
+    .bridge{
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .things{
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top: 20px;
+    }
+    .visitors{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+    .button{
+        margin-left: 10%;
+    }
+
+    .second-pg{
+        display: flex;
+        border-top: 1px solid grey;
+    }
+    .river{
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .third-pg{
+        display: flex;
+        flex-direction: row-reverse;
+        border-top: 1px solid grey;
+    }
+    .story{
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .gallery{
+        margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    }
+
+    .airplane{
+        width: 48px;
+        height: 48px;
+    }
+
+    hr{
+        
+        opacity: 1;
+    }
+    .carousel{
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .features{
+        display: grid;
+        grid-template-columns: 300px 300px;
+        grid-template-rows: 300px 300px 300px;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .name{
+        display: flex;
+        width: 100%;
+    }
+    .via{
+        display: flex;
+    width: 100%;
+    }
+    .foot{
+       width: 28px;
+       height: 28px;
+    }
+    .new-icon{
+        display: none;
+    }
+    .first-block{
+        border-right: 1px solid grey;
+        border-bottom: 1px solid grey;
+
+    }
+    .second-block{
+        border-bottom: 1px solid grey;
+        
+    }
+    .third-block{
+        border-right: 1px solid grey;
+        border-bottom: 1px solid grey;
+        
+    }
+    .fourth-block{
+        border-bottom: 1px solid grey;
+        
+    }
+    .fifth-block{
+        border-right: 1px solid grey;
+        
+    }
+   
+    footer{
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+    .untitled{
+        margin-left: 41.5%;
+    }
+
+    .via{
+        width: 100%;
+        margin-left: 30px;
+    }
+    
+    .frm{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .name{
+        justify-content: space-around;
+        margin-bottom: 20px;
+    }
+    .email{
+        display: flex;
+        margin-left: 60px;
+    }
+    #bridge{
+        width: 50%;
+    }
+    .bridge{
+        width: 50%;
+    }
+    .second-img{
+        height: 500px;
+        width: 50%;
+    }
+    .river{
+        width: 50%;
+    }
+    .gr-a,
+    .gr-c,
+    .gr-e,
+    .gr-b,
+    .gr-d,
+    .gr-f{
+        height: 300px;
+        text-align: center;
+    }
+    .airplane{
+        margin-top: 23%;
+    }
+    .ema{
+        display: flex;
+    }
+    .buti{
+        margin-top: 5px;
+    }
+    .text{
+        width: 95%;
+    margin-left: 3%;
+    }
+    .countr{
+        margin-left: 3%;
+    }
+    .robot{
+        display: flex;
+        justify-content: space-between;
+        width: 98%;
+    }
+    .last{
+        margin-left: 3%;
+    }
+    .untitled{
+margin-top: 10px;
+    }
+    
+    
+
+    }
